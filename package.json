@@ -1,0 +1,15 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "backend in production",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "sovan chakma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
